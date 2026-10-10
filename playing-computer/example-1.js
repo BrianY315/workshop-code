@@ -3,8 +3,8 @@
 // one person will "play" the global frame
 // another person will "play" the add frame
 
-function add(a, b) {
-  return a + b;
+function add(a, b) {   // declaration for adding a and b.
+  return a + b;        // declaration for returning a+b 
 }
 
 let x = 10;
